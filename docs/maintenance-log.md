@@ -1,0 +1,157 @@
+# Maintenance Log
+
+- Initial framework setup for orangehrm-jira-framework
+- Add baseline documentation and repository hygiene for orangehrm-jira-framework
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
+- docs(orangehrm-jira-framework): document execution behavior for leave request denial path
+- chore(orangehrm-jira-framework): extend environment controls for comment sync formatting
+- ci(orangehrm-jira-framework): publish diagnostics for attachment upload fallback
+- refactor(orangehrm-jira-framework): refresh reusable data for priority mapping update
+- chore(orangehrm-jira-framework): record maintenance update for defect labels normalization
+- test(orangehrm-jira-framework): add smoke coverage for jira issue payload build
+- test(orangehrm-jira-framework): expand regression suite for failure evidence bundle
+- feat(orangehrm-jira-framework): add reusable workflow support for employee onboarding path
