@@ -1,0 +1,88 @@
+pipeline {
+    agent any
+    
+    tools {
+        nodejs 'NodeJS'
+    }
+    
+    parameters {
+        string(name: 'JIRA_ISSUE_KEY', defaultValue: '', description: 'Jira Issue Key (e.g., TEST-123)')
+    }
+    
+    environment {
+        JIRA_BASE_URL = credentials('jira-base-url')
+        JIRA_EMAIL = credentials('jira-email')
+        JIRA_API_TOKEN = credentials('jira-api-token')
+        JIRA_PROJECT_KEY = credentials('jira-project-key')
+    }
+    
+    stages {
+        stage('Checkout') {
+            steps {
+                checkout scm
+            }
+        }
+        
+        stage('Install Dependencies') {
+            steps {
+                sh 'npm ci'
+            }
+        }
+        
+        stage('Run Tests') {
+            steps {
+                sh 'npm run test:jira'
+            }
+        }
+        
+        stage('Update Jira') {
+            when {
+                expression { params.JIRA_ISSUE_KEY != '' }
+            }
+            steps {
+                script {
+                    def buildStatus = currentBuild.result ?: 'SUCCESS'
+                    def comment = """
+                        OrangeHRM Test Execution Completed
+                        
+                        Build Number: ${env.BUILD_NUMBER}
+                        Status: ${buildStatus}
+                        Build URL: ${env.BUILD_URL}
+                        
+                        Reports have been attached to this issue.
+                    """
+                    
+                    try {
+                        // The generateReports.js script already handles Jira updates
+                        // But we can also use Jenkins Jira plugin for additional updates
+                        if (fileExists('reports/cucumber_report.html')) {
+                            jiraUploadAttachment(
+                                issueKey: params.JIRA_ISSUE_KEY,
+                                filePath: 'reports/cucumber_report.html'
+                            )
+                        }
+                        
+                        echo "Jira integration completed via generateReports.js"
+                    } catch (Exception e) {
+                        echo "Jira update handled by generateReports.js script"
+                    }
+                }
+            }
+        }
+    }
+    
+    post {
+        always {
+            publishHTML([
+                reportName: 'Cucumber Test Report',
+                reportDir: 'reports',
+                reportFiles: 'cucumber_report.html',
+                reportTitles: 'OrangeHRM Test Report',
+                keepAll: true
+            ])
+            
+            archiveArtifacts artifacts: 'reports/**/*', allowEmptyArchive: true
+        }
+    }
+}
+

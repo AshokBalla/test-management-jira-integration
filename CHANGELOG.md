@@ -1,0 +1,22 @@
+# Changelog
+
+- Initial framework bootstrap.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
+- Improved support for defect labels normalization.
