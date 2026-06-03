@@ -20,3 +20,4 @@ test-results/
 __pycache__/
 reports/
 screenshots/
+target/
